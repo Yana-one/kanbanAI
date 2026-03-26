@@ -30,6 +30,8 @@ Users can create tasks freely and then use AI to automatically categorize, prior
 
 ### Demo
 
+![main](./kan_pic/kan5.png)
+![main](./kan_pic/kan6.png)
 <p align="center">
   <img src="./kan_pic/kan1.png" width="45%" />
   <img src="./kan_pic/kan2.png" width="45%" />
