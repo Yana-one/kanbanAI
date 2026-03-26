@@ -33,13 +33,13 @@ Users can create tasks freely and then use AI to automatically categorize, prior
 ![main](./kan_pic/kan5.png)
 ![main](./kan_pic/kan6.png)
 <p align="center">
-  <img src="./kan_pic/kan1.png" width="50%" />
-  <img src="./kan_pic/kan2.png" width="50%" />
+  <img src="./kan_pic/kan1.png" width="45%" />
+  <img src="./kan_pic/kan2.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./kan_pic/kan3.png" width="50%" />
-  <img src="./kan_pic/kan4.png" width="50%" />
+  <img src="./kan_pic/kan3.png" width="45%" />
+  <img src="./kan_pic/kan4.png" width="45%" />
 </p>
 
 
